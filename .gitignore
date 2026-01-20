@@ -1,0 +1,32 @@
+# Qt автогенерируемые файлы
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Файлы Qt Creator
+*.pro.user
+.qmake.stash
+
+# Директории сборки
+build/
+debug/
+release/
+
+# Объектные и библиотечные файлы
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# IDE файлы
+.vscode/
+.idea/
